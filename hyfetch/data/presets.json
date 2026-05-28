@@ -245,5 +245,13 @@
   "queervillain": {
     "colors": ["#662D91", "#8DC63F", "#F7941D", "#EC008C"],
     "comment": "Sourced from https://distressedegg.fun/qvp"
+  },
+  "ivyfetch": {
+    "colors": ["#1B4D3E", "#2D5A4A", "#3E7A5A", "#528B6A", "#6B9C7A", "#8FB89A", "#A8C9AA", "#C1D4B8"],
+    "comment": "Green and leafy green color pattern for Ivyfetch"
+  },
+  "gameboy-green": {
+    "colors": ["#0F380F", "#306230", "#8BAC0F", "#9BBC0F"],
+    "comment": "Classic Gameboy green 4-color palette"
   }
 }
