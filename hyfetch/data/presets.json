@@ -250,12 +250,12 @@
     "colors": ["#1B4D3E", "#2D5A4A", "#3E7A5A", "#528B6A", "#6B9C7A", "#8FB89A", "#A8C9AA", "#C1D4B8"],
     "comment": "Green and leafy green color pattern"
   },
-  "red-ivy": {
-    "colors": ["#F49E23", "#CD8D32", "#E6C647", "#FFCC00", "#DDCF55", "#F55E2F", "#AF0D0D", "#E85858"],
-    "comment": "Red and leafy red color pattern, based on the Autumn season"
-  },
   "gameboy-green": {
     "colors": ["#0F380F", "#306230", "#8BAC0F", "#9BBC0F"],
     "comment": "Classic Gameboy green 4-color palette"
+  },
+  "alpine": {
+    "colors": ["#0D3D59", "#0F5975", "#0D7285", "#00A3D9", "#00C4E4", "#0AD3E8"],
+    "comment": "Alpine Linux distribution - cyan and blue tones"
   }
 }
