@@ -251,7 +251,7 @@
     "comment": "Green and leafy green color pattern"
   },
   "red-ivy": {
-    "colors": ["#CD8D32", "#F49E23", "#E6C647", "#FFCC00", "#DDCF55", "#F55E2F", "#AF0D0D", "#E85858"],
+    "colors": ["#F49E23", "#CD8D32", "#E6C647", "#FFCC00", "#DDCF55", "#F55E2F", "#AF0D0D", "#E85858"],
     "comment": "Red and leafy red color pattern, based on the Autumn season"
   },
   "gameboy-green": {
