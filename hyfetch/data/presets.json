@@ -248,7 +248,7 @@
   },
   "ivyfetch": {
     "colors": ["#1B4D3E", "#2D5A4A", "#3E7A5A", "#528B6A", "#6B9C7A", "#8FB89A", "#A8C9AA", "#C1D4B8"],
-    "comment": "Green and leafy green color pattern for Ivyfetch"
+    "comment": "Green and leafy green color pattern"
   },
   "gameboy-green": {
     "colors": ["#0F380F", "#306230", "#8BAC0F", "#9BBC0F"],
