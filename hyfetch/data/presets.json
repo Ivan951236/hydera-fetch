@@ -257,5 +257,13 @@
   "alpine": {
     "colors": ["#0D3D59", "#0F5975", "#0D7285", "#00A3D9", "#00C4E4", "#0AD3E8"],
     "comment": "Alpine Linux distribution - cyan and blue tones"
+  },
+  "alpine": {
+    "colors": ["#0D3D59", "#0F5975", "#0D7285", "#00A3D9", "#00C4E4", "#0AD3E8"],
+    "comment": "Alpine Linux distribution - cyan and blue tones"
+  },
+  "gentoo": {
+    "colors": ["#412F79", "#4B3C7B", "#5D4F89", "#706888", "#777188", "#7B7788"],
+    "comment": "Gentoo Linux Distribution"
   }
 }
